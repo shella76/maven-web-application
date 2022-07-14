@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart-snapshot </name>
-	      <url>http://3.110.40.250:9000/repository/walmart-snapshot/</url>
+	      <url>http://http://15.206.128.139:9000/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
