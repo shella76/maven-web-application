@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://52.66.244.137:9000/</sonar.host.url>
+		<sonar.host.url>http:13.233.152.16:9000/</sonar.host.url>
                 <sonar.login>56fef14b6882991a989f59fe0a309af7b5a8e594</sonar.login>
 		
              
@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>walmart-snapshot </name>
-	      <url>http://http://15.206.128.139:9000/repository/walmart-snapshot/</url>
+	      <url>http://13.233.152.16:9000/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
